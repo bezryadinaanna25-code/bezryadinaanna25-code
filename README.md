@@ -2,9 +2,9 @@
 
 # Привет, я Анна 👋
 
-### Проектный менеджер · Продюсер · ИИ-энтузиаст
+### Вайб-кодер · Проектный менеджер · AI-автоматизация
 
-Автоматизирую рутину, внедряю нейросети в реальную работу — и учусь этому прямо сейчас.
+Автоматизирую рутину, внедряю ИИ в реальные рабочие процессы и собираю работающие цифровые решения — от идеи до запуска.
 
 </div>
 
@@ -13,50 +13,77 @@
 ## Чем занимаюсь
 
 **🎓 Онлайн-школа для юристов и медиаторов**  
-Веду проект от стратегии до выпуска: управляю командой, выстраиваю процессы, закупаю рекламу для вебинаров, автоматизирую всё, что можно автоматизировать.
+Веду проекты от стратегии до выпуска: управляю командой, выстраиваю процессы, закупаю рекламу для вебинаров, работаю с контентом, лендингами и автоматизацией.
 
 **🎸 Повелитель струн — музыкальный проект**  
-Продюсирую живые выступления музыканта Антона: дни рождения, корпоративы, свадьбы, нетворкинги. Живой голос и гитара — без фонограммы.
+Продюсирую проект музыканта: сайт, контент, продвижение, заявки, чат-бот и автоматизация публикаций.
 
-**🤖 ИИ в работе**  
-Изучаю Claude Code и применяю нейросети в реальных задачах: генерация контента, автопубликация в соцсети, подбор рекламных каналов, SEO. Не программист — просто человек, который перестал бояться кода.
+**🤖 ИИ и автоматизация**  
+Использую Claude Code, OpenAI Codex и OpenClaw для рабочих задач: создаю лендинги и веб-приложения, собираю чат-ботов, автоматизирую контент и публикации, анализирую данные и выстраиваю рабочие процессы с помощью ИИ.
 
 ---
 
 ## Что уже работает
 
-🚀 **[Контент-завод](https://github.com/bezryadinaanna25-code/content-factory)** — пост генерирует Claude, скрипт сам публикует в Telegram и VK с видео или фото  
-📊 **[Автоподбор рекламных каналов](https://github.com/bezryadinaanna25-code/reklama-kanaly)** — Claude Code анализирует базу и выбирает каналы под конкретный вебинар  
-🌐 **[Сайт музыканта](https://github.com/bezryadinaanna25-code/povelitel-strun-site)** — создан с помощью ИИ-инструментов  
-📝 **SEO-статьи для блога** — генерация и публикация через Claude  
+🚀 **[Контент-завод](https://github.com/bezryadinaanna25-code/content-factory)** — генерация контента и автопубликация в Telegram и VK с видео или фото  
+📊 **[Автоподбор рекламных каналов](https://github.com/bezryadinaanna25-code/reklama-kanaly)** — анализ базы и подбор каналов под конкретный вебинар  
+🌐 **[Сайт музыканта](https://github.com/bezryadinaanna25-code/povelitel-strun-site)** — сайт, созданный с помощью AI-инструментов  
+🤖 **VK-чат-бот** — база знаний, диалоги, сбор заявки и передача менеджеру  
+🧩 **Лендинги и веб-приложения** — сборка, тестирование и деплой на Netlify и Railway  
+📝 **SEO-статьи для блога** — генерация и публикация через Claude
+
+---
+
+## Что умею собирать с ИИ
+
+- лендинги и небольшие веб-приложения;
+- чат-боты и сценарии обработки заявок;
+- автоматизацию контента и публикаций;
+- рабочие AI-агенты и многошаговые процессы;
+- инструменты для анализа и обработки данных;
+- прототипы под реальные бизнес-задачи.
 
 ---
 
 ## Инструменты
 
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
+### 🤖 AI
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=flat&logo=openai&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-AI_Agents-4B5563?style=flat)
+
+### ⚙️ Разработка и автоматизация
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+### 🔗 Интеграции и деплой
+
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=flat&logo=telegram&logoColor=white)
 ![VK](https://img.shields.io/badge/VK_API-4C75A3?style=flat&logo=vk&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![ProxyAPI](https://img.shields.io/badge/ProxyAPI-API-6B7280?style=flat)
 
 ---
 
 ## Связаться
 
-[![Telegram](https://img.shields.io/badge/@bezryadina__anna-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/bezryadina_anna)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bezryadina.anna25@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%40bezryadina__anna-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/bezryadina_anna)
 
 ## Мои каналы
 
-[![Telegram](https://img.shields.io/badge/Telegram_канал-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/producer_anna)
-[![VK](https://img.shields.io/badge/ВКонтакте-4C75A3?style=flat&logo=vk&logoColor=white)](https://vk.com/producer_anna)
+[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-producer__anna-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/producer_anna)
+[![VK](https://img.shields.io/badge/VK-producer__anna-0077FF?style=flat&logo=vk&logoColor=white)](https://vk.com/producer_anna)
 
 ---
 
 <div align="center">
 
-*Не программист. Просто человек, который перестал бояться нейросетей — и теперь заставляет их работать на себя.*
+*От идеи и рабочего процесса — до бота, автоматизации или запущенного веб-приложения.*
 
 </div>
