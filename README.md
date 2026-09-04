@@ -13,7 +13,7 @@
 ## Чем занимаюсь
 
 **🎓 Онлайн-школа для юристов и медиаторов**  
-Веду проекты от стратегии до выпуска: управляю командой, выстраиваю процессы, закупаю рекламу для вебинаров, работаю с контентом, лендингами и автоматизацией.
+Веду проекты от стратегии до выпуска: управляю командой, выстраиваю процессы, закупаю рекламу для вебинаров, работаю с контентом, лендингами и автоматизацией. В GetCourse обновляю дизайн и интерфейс с помощью Claude, правлю CSS/JS и скрипты.
 
 **🎸 Повелитель струн — музыкальный проект**  
 Продюсирую проект музыканта: сайт, контент, продвижение, заявки, чат-бот и автоматизация публикаций.
@@ -45,29 +45,46 @@
 
 ---
 
-## Инструменты
+## Инструменты и стек
 
 ### 🤖 AI
 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=flat&logo=openai&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-AI_Agents-4B5563?style=flat)
 
-### ⚙️ Разработка и автоматизация
+### 🌐 Сайты и приложения
+
+![Tilda](https://img.shields.io/badge/Tilda-000000?style=flat&logo=tildapublishing&logoColor=white)
+![GetCourse](https://img.shields.io/badge/GetCourse-CSS%2FJS-6C63FF?style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+
+### ⚙️ Автоматизация и интеграции
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
-### 🔗 Интеграции и деплой
-
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat&logo=googleappsscript&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=flat&logo=telegram&logoColor=white)
 ![VK](https://img.shields.io/badge/VK_API-4C75A3?style=flat&logo=vk&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 ![ProxyAPI](https://img.shields.io/badge/ProxyAPI-API-6B7280?style=flat)
+
+### 🚀 Публикация и инфраструктура
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Beget](https://img.shields.io/badge/Beget-hosting-5B5BD6?style=flat)
+
+### 🧰 Рабочая среда
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ---
 
