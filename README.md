@@ -123,8 +123,8 @@ SEO-аудит двух сайтов, семантика, контент-пла�
 
 ## Мои каналы
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-producer__anna-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/producer_anna)
-[![VK](https://img.shields.io/badge/VK-producer__anna-0077FF?style=flat&logo=vk&logoColor=white)](https://vk.com/producer_anna)
+[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-bezryadina__pro-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/bezryadina_pro)
+[![VK](https://img.shields.io/badge/VK-bezryadina__pro-0077FF?style=flat&logo=vk&logoColor=white)](https://vk.com/bezryadina_pro)
 
 ---
 
